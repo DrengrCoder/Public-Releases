@@ -1,2 +1,2 @@
-# Public-Releases
+# Public Releases
 Publicly released assets
