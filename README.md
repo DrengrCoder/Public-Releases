@@ -9,7 +9,7 @@ The README.md files contained in the release zips may not be up-to-date. Please 
 A collection of user-friendly and simplified code to assist rapid development and maintainable code bases.
 - The download includes the header files, the library shared object, an install script and basic setup instructions.
 - Only guaranteed Linux-compatibility for C++.
-- The Source Code zip contains the projects original readme with usage instructions and examples, including credits.
+- Readme not included at this time.
 
 ## Code Generator
 | Version | Release Date | License | Owner | Description |
