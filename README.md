@@ -22,7 +22,7 @@ TODO:
 
 The Drengr UI library contains WPF-based UI components to assist in secure data control.
 
-### Password Manager
+## Password Manager
 | Version | Release Date | License | Owner | Description |
 |:--------|:-------------|:--------|:------|:------------|
 | 1.0.0 | 09 / 09 / 25 | Apache-2.0 | Dylan McAdam, Drengr Coder | Initial Release. |
