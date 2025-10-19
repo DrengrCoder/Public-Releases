@@ -14,9 +14,12 @@ A collection of user-friendly and simplified code to assist rapid development an
 ## Code Generator
 | Version | Release Date | License | Owner | Description |
 |:--------|:-------------|:--------|:------|:------------|
-| - | - | Apache-2.0 | Dylan McAdam, Drengr Coder | Iniitial Release. |
+|  1.0.0  |  19/10/2025  | Apache-2.0 | Dylan McAdam, Drengr Coder | Iniitial Release. |
 
-Coming soon...
+An automated code generator to quickly create code files and project structures.
+- Allows users to generate custom template files with placeholder variables.
+- CLI based interface with preprogrammed prompts.
+- Can generate project structures and customise app settings json to define more project structure types with a list of preferred project files.
 
 ## Drengr UI
 | Version | Release Date | License | Owner | Description |
