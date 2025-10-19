@@ -21,6 +21,9 @@ An automated code generator to quickly create code files and project structures.
 - CLI based interface with preprogrammed prompts.
 - Can generate project structures and customise app settings json to define more project structure types with a list of preferred project files.
 
+Dependencies:
+- The Drengr C++ Library v1.0.0 (above).
+
 ## Drengr UI
 | Version | Release Date | License | Owner | Description |
 |:--------|:-------------|:--------|:------|:------------|
