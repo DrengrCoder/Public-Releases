@@ -6,14 +6,14 @@ The README.md files contained in the release zips may not be up-to-date. Please 
 |:--------|:-------------|:--------|:------|:------------|
 | - | - | Apache-2.0 | Dylan McAdam, Drengr Coder | Iniitial Release. |
 
-TODO:
+Coming soon...
 
 ## Code Generator
 | Version | Release Date | License | Owner | Description |
 |:--------|:-------------|:--------|:------|:------------|
 | - | - | Apache-2.0 | Dylan McAdam, Drengr Coder | Iniitial Release. |
 
-TODO:
+Coming soon...
 
 ## Drengr UI
 | Version | Release Date | License | Owner | Description |
