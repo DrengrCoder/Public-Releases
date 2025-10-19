@@ -1,7 +1,21 @@
 # Public Releases
 The README.md files contained in the release zips may not be up-to-date. Please refer to this repository for the latest information.
+
+## C++ Library
+| Version | Release Date | License | Owner | Description |
+|:--------|:-------------|:--------|:------|:------------|
+| - | - | Apache-2.0 | Dylan McAdam, Drengr Coder | Iniitial Release. |
+
+TODO:
+
+## Code Generator
+| Version | Release Date | License | Owner | Description |
+|:--------|:-------------|:--------|:------|:------------|
+| - | - | Apache-2.0 | Dylan McAdam, Drengr Coder | Iniitial Release. |
+
+TODO:
+
 ## Drengr UI
-#### Chnage Log
 | Version | Release Date | License | Owner | Description |
 |:--------|:-------------|:--------|:------|:------------|
 | 1.0.0 | 31 / 08 / 25 | Apache-2.0 | Dylan McAdam, Drengr Coder | Iniitial Release. |
