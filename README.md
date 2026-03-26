@@ -3,8 +3,8 @@ The README.md files contained in the release zips may not be up-to-date. Please 
 
 ## C++ Library
 
-| Version | Release Date | License | Owner | Description |
-|:--------|:-------------|:--------|:------|:------------|
+| Version | Release Date |  License   |           Owner            | Description |
+|:--------|:-------------|:-----------|:---------------------------|:------------|
 |  1.0.0  |  19/10/2025  | Apache-2.0 | Dylan McAdam, Drengr Coder | Iniitial Release. |
 
 A collection of user-friendly and simplified code to assist rapid development and maintainable code bases.
@@ -14,8 +14,8 @@ A collection of user-friendly and simplified code to assist rapid development an
 
 ## Code Generator
 
-| Version | Release Date | License | Owner | Description |
-|:--------|:-------------|:--------|:------|:------------|
+| Version | Release Date |  License   |           Owner            | Description |
+|:--------|:-------------|:-----------|:---------------------------|:------------|
 |  1.0.0  |  19/10/2025  | Apache-2.0 | Dylan McAdam, Drengr Coder | Iniitial Release. |
 
 An automated code generator to quickly create code files and project structures.
@@ -28,16 +28,18 @@ Dependencies:
 
 ## Drengr UI
 
-| Version | Release Date | License | Owner | Description |
-|:--------|:-------------|:--------|:------|:------------|
+| Version | Release Date |  License   |           Owner            | Description |
+|:--------|:-------------|:-----------|:---------------------------|:------------|
 |  1.0.0  |  31/08/2025  | Apache-2.0 | Dylan McAdam, Drengr Coder | Iniitial Release. |
 
 The Drengr UI library contains WPF-based UI components to assist in secure data control.
 
 ## Password Manager
 
-| Version | Release Date | License | Owner | Description |
-|:--------|:-------------|:--------|:------|:------------|
+WARNING: This has been removed pending review, potentially vulnerable if decompiled and algorithm components extracted.
+
+| Version | Release Date |  License   |           Owner            | Description |
+|:--------|:-------------|:-----------|:---------------------------|:------------|
 |  1.0.0  |  09/09/2025  | Apache-2.0 | Dylan McAdam, Drengr Coder | Initial Release. |
 |  1.0.1  |  09/09/2025  | Apache-2.0 | Dylan McAdam, Drengr Coder | Fixed the installer to create start menu entries. |
 
