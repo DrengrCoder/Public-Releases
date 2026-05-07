@@ -1,6 +1,7 @@
 # Trademarks
 
 "DrengrUI" and "Drengr Coder" are trademarks of Dylan McAdam.
-Use of these names does not imply endorsement by the trademark owner.
-You may use the names solely to describe the origin of this software
-(e.g., "forked from DrengrUI") as permitted by the Apache License 2.0.
+
+The Apache License 2.0 does not grant permission to use these trademarks. You may use the names only for truthful, descriptive purposes, such as identifying that a project is a fork of, derived from, or compatible with DrengrUI or Drengr Coder.
+
+Use of these names does not imply endorsement, sponsorship, or affiliation with Dylan McAdam.
